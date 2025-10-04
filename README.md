@@ -7,7 +7,6 @@ I'm a **System Engineer** with a Bachelor of Science from [Universidade Federal 
 - 🚀 Always curious and driven by learning new things
 - 🏗️ Aspiring to become a **Software Architect** in the near future
 - 💼 Passionate about solving real-world problems with technology
-- 🔎 Enjoy hands-on work, both in code and in life
 
 ## 🛠️ Tech Stack & Tools
 
